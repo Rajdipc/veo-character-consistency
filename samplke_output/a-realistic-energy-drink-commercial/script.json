@@ -1,0 +1,141 @@
+{
+  "characters": [
+    {
+      "age": 28,
+      "build": "lean, athletic, with well-defined musculature",
+      "default_outfit": "high-performance athletic gear: moisture-wicking shirt, compression shorts, running shoes",
+      "demeanour": "determined and focused, with an undercurrent of quiet confidence",
+      "eye_contact_ratio": 0.3,
+      "eyes": "focused, intense brown eyes",
+      "hair": "short, dark brown, slightly messy from exertion",
+      "height": "6'1\" / 185 cm",
+      "mouth_shape_intensity": 0.6,
+      "name": "Alex 'Apex' Johnson",
+      "skin_tone": "lightly tanned with a healthy, athletic glow",
+      "distinguishing_marks": "a few minor, faded scrapes on his forearms, suggesting a rugged training regimen"
+    }
+  ],
+  "clips": [
+    {
+      "audio_track": {
+        "style": "ambient electronic, deep resonant synth pad swelling slowly, 60 BPM",
+        "wave_download_url": null,
+        "youtube_reference": null
+      },
+      "cinematography": {
+        "color_grade": "cool, blueish pre-dawn tones mixed with the warm glow of a single interior lamp, high contrast",
+        "lighting": "soft, directional morning light streaming through a large window, creating long shadows",
+        "tone": "calm, focused, anticipatory"
+      },
+      "dialogue": {
+        "character": "Alex 'Apex' Johnson",
+        "line": "(Sound of lacing up shoes, then the sharp 'tssk' of a can opening and a satisfying drink)",
+        "subtitles": false
+      },
+      "duration_sec": 8,
+      "id": "S1_Preparation",
+      "performance": {},
+      "scene": {
+        "environment": "soft morning light illuminates dust motes in the air; kettlebells and a pull-up bar are visible in the background",
+        "location": "a modern, minimalist home gym",
+        "time_of_day": "dawn"
+      },
+      "shot": {
+        "camera": "RED camera on a smooth slider",
+        "composition": "medium shot, 50mm lens, shallow depth of field, focusing on the character",
+        "camera_motion": "slow push-in 40cm towards the character as he takes a drink",
+        "frame_rate": "24 fps"
+      },
+      "subject": {
+        "description": "Alex 'Apex' Johnson — 28-year-old athlete, 185 cm, lean and muscular build; lightly tanned skin; short, dark brown hair; intense brown eyes. He's focused and contemplative.",
+        "wardrobe": "grey sleeveless training hoodie, black compression shorts, and modern running shoes"
+      },
+      "visual_details": {
+        "action": "sits on a workout bench, methodically lacing his shoes. He then picks up a sleek, condensation-covered energy drink can, opens it, and takes a long, deliberate drink, his expression shifting to one of resolve.",
+        "props": "a can of 'Momentum' energy drink, high-end running shoes, workout bench"
+      }
+    },
+    {
+      "audio_track": {
+        "emotion": "motivational, intense",
+        "lyrics": "Push past the burn.",
+        "style": "driving, percussive electronic track, 130 BPM, with a powerful, rhythmic beat"
+      },
+      "cinematography": {
+        "color_grade": "gritty, slightly desaturated to emphasize raw effort and texture",
+        "lighting": "harsh, high-key mid-morning sunlight creating sharp highlights and shadows",
+        "tone": "intense, powerful, exhilarating"
+      },
+      "dialogue": {
+        "character": "Narrator",
+        "line": "Push past the burn.",
+        "subtitles": false
+      },
+      "duration_sec": 8,
+      "id": "S2_TheClimb",
+      "performance": {
+        "eye_contact_ratio": 0.0
+      },
+      "scene": {
+        "environment": "rocky, arid terrain with sparse vegetation; the city is a hazy silhouette in the valley below",
+        "location": "a steep, rugged mountain trail",
+        "time_of_day": "mid-morning"
+      },
+      "shot": {
+        "camera": "mirrorless camera on a handheld gimbal (e.g., DJI Ronin)",
+        "composition": "dynamic low-angle tracking shot, 35mm lens, capturing the powerful strides and exertion",
+        "camera_motion": "fast-paced tracking shot, following alongside the runner, with slight, energetic handheld movements",
+        "frame_rate": "60 fps"
+      },
+      "subject": {
+        "description": "Alex 'Apex' Johnson running with explosive power; sweat drips from his brow, his muscles are tense, and his breathing is heavy but controlled.",
+        "wardrobe": "moisture-wicking athletic t-shirt, black compression shorts, running shoes"
+      },
+      "visual_details": {
+        "action": "a dynamic montage of running: feet pounding on gravel, powerful leg drive, intense facial expression, sweat beading on his skin, all conveying peak physical exertion.",
+        "props": "none"
+      }
+    },
+    {
+      "audio_track": {
+        "emotion": "triumphant, inspiring",
+        "lyrics": "Find your Momentum.",
+        "style": "the driving beat fades into an uplifting, ambient synth melody with ethereal pads"
+      },
+      "cinematography": {
+        "color_grade": "warm, golden, and highly saturated, evoking a sense of accomplishment and reward",
+        "lighting": "bright, beautiful sunlight as if at golden hour, making the landscape vibrant",
+        "tone": "triumphant, rewarding, inspiring"
+      },
+      "dialogue": {
+        "character": "Narrator",
+        "line": "Find your Momentum.",
+        "subtitles": false
+      },
+      "duration_sec": 8,
+      "id": "S3_TheSummit",
+      "performance": {
+        "eye_contact_ratio": 0.1
+      },
+      "scene": {
+        "environment": "a gentle breeze blows; an expansive, breathtaking panoramic view of the city and landscape spreads out below",
+        "location": "the rocky summit of a mountain",
+        "time_of_day": "late morning"
+      },
+      "shot": {
+        "camera": "tripod for stable shots, with a focus on a hero product shot",
+        "composition": "starts wide, then a slow dolly into a medium close-up of the character's satisfied face, ending with an extreme close-up 'hero shot' of the product can against the scenic background",
+        "camera_motion": "slow dolly-in 80 cm, then a static hero shot",
+        "frame_rate": "24 fps"
+      },
+      "subject": {
+        "description": "Alex 'Apex' Johnson stands at the peak, catching his breath. He looks out over the view with a small, satisfied smile, looking triumphant and fulfilled.",
+        "wardrobe": "sweat-dampened athletic t-shirt, black compression shorts"
+      },
+      "visual_details": {
+        "action": "stands at the summit, looking out over the view. He gives a quiet, personal toast with the now-empty can, then places it perfectly on a rock, with the stunning vista in the background.",
+        "props": "empty 'Momentum' energy drink can"
+      }
+    }
+  ]
+}
