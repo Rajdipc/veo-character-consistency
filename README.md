@@ -41,11 +41,10 @@ graph TD
 
 You can run the script directly from the command line. The main execution block at the end of the file (`if __name__ == "__main__":`) contains a list of ideas to generate.
 
-**Modify the `ideas` list** in `veo3_vid_gen.py` to define the video(s) you want to create. Each entry is a tuple containing the `idea` (a string) and the `number_of_scenes` (an integer).
+**Modify the `ideas` list** to define the video(s) you want to create. Each entry is a tuple containing the `idea` (a string) and the `number_of_scenes` (an integer).
 
     ```python
-    # c:\Test\veo-character-consistency\veo3_vid_gen.py
-
+   
     if __name__ == "__main__":
         ideas = [
             (
